@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoBalinha
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, R, Tableau and Python
 - 💞️ I’m looking to collaborate on a new project in the data analytics world. So far, I've zero experience on the subject, but, I'm learning it.
 - 📫 How to reach me ...
